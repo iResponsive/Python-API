@@ -1,0 +1,53 @@
+Patient Name: Puja Das
+Patient Gender: Female
+Date of Birth: January 31, 1999 (Age: 24)
+Patient Address: 22, Bably Lane, Dakota, North Dakota, 58746 (Home)
+
+Patient Contact Information:
+
+Phone Number: 845-755-5554
+Email Address: pujadas@gmail.com
+Insurance Information:
+
+Insurance Company: Bharti AXA Life Insurance
+Insurance Type: Health Insurance
+Insurance ID: 123
+Effective From: June 13, 2017
+Effective To: July 31, 2025
+Allergies:
+
+Allergy Agent: Para 650
+Reaction: Headache
+Severity: Low
+Visit Information:
+
+Visit Date and Time: February 11, 2023, at 14:30
+Provider: Cristiano Ramas
+Medication Prescribed: Dolo 650
+Medication Strength: 650 mg
+Medication Dosage: 1 tablet
+Frequency: 4 times a day (Always after food)
+Prescription Start Date: February 15, 2023
+Prescription End Date: February 23, 2023
+Reason for Discontinuation: Patient cured
+Days of Supply: 7 days
+Billing Information:
+
+Invoice Number: 1
+Invoice Amount: $150.00
+Billing Percentage: 100%
+Payment Amount: Not available
+Invoice Date: Not available
+Patient Documents:
+
+Document Type: Medical Record
+Document Name: sample.pdf
+Document Size: 3,028 bytes
+Document URL: View Document
+Patient Progress:
+
+Pending Initial Evaluations: None
+Completed Initial Evaluations: None
+Pending Progress Notes: None
+Completed Progress Notes: None
+This patient, Puja Das, is a 24-year-old female residing at 22, Bably Lane, Dakota, North Dakota. She has a health insurance policy with Bharti AXA Life Insurance, with the insurance ID 123, effective from June 13, 2017, to July 31, 2025. She had a recent visit on February 11, 2023, with Dr. Cristiano Ramas, during which she was prescribed Dolo 650 for a headache. The medication dosage is 1 tablet, to be taken 4 times a day after meals, and the prescription is valid from February 15, 2023, to February 23, 2023. The patient has reported being cured.
